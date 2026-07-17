@@ -11,7 +11,9 @@
 -- WIP...
 
 
-<p align="left"><img src="https://files.catbox.moe/w0h75q.png" width="35%"> LALALA <p align="right"><img src="https://files.catbox.moe/al2w5q.png" width="25%">
+<p align="left"><img src="https://files.catbox.moe/w0h75q.png" width="35%"> 
+<p align="center">$\color{#ff2f8e}{\textsf{SIGH}}$
+<p align="right"><img src="https://files.catbox.moe/al2w5q.png" width="25%">
 
 <p></p>
 <p></p>
