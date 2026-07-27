@@ -9,9 +9,12 @@
 
 <p align="center">$\color{#ffd600}{\textsf{T}}\color{#ffd600}{\textsf{H}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{Y}}$ $\color{#ffd600}{\textsf{/}}$ $\color{#ffd600}{\textsf{T}}\color{#ffd600}{\textsf{H}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{M}}$ $\color{#ffd600}{\textsf{C}}\color{#ffd600}{\textsf{O}}\color{#ffd600}{\textsf{L}}\color{#ffd600}{\textsf{L}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{C}}\color{#ffd600}{\textsf{T}}\color{#ffd600}{\textsf{I}}\color{#ffd600}{\textsf{V}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{L}}\color{#ffd600}{\textsf{Y}}$
 
+<p align="center">$\color{#ffd600}{\textsf{M}}\color{#ffd600}{\textsf{A}}\color{#ffd600}{\textsf{G}}\color{#ffd600}{\textsf{E}}$ $\color{#ffd600}{\textsf{O}}\color{#ffd600}{\textsf{F}}$ $\color{#ffd600}{\textsf{H}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{A}}\color{#ffd600}{\textsf{R}}\color{#ffd600}{\textsf{T}}$ $\color{#ffd600}{\textsf{D}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{R}}\color{#ffd600}{\textsf{S}}\color{#ffd600}{\textsf{E}}$ $\color{#ffd600}{\textsf{D}}\color{#ffd600}{\textsf{R}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{A}}\color{#ffd600}{\textsf{M}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{R}}\color{#ffd600}{\textsf{S}}$
+
 <p align="center">$\color{#ffd600}{\textsf{A}}\color{#ffd600}{\textsf{L}}\color{#ffd600}{\textsf{W}}\color{#ffd600}{\textsf{A}}\color{#ffd600}{\textsf{Y}}\color{#ffd600}{\textsf{S}}$ $\color{#ffd600}{\textsf{C}}\color{#ffd600}{\textsf{+}}\color{#ffd600}{\textsf{H}}$ $\color{#ffd600}{\textsf{W}}\color{#ffd600}{\textsf{E}}$ $\color{#ffd600}{\textsf{L}}\color{#ffd600}{\textsf{O}}\color{#ffd600}{\textsf{V}}\color{#ffd600}{\textsf{E}}$ $\color{#ffd600}{\textsf{2}}$ $\color{#ffd600}{\textsf{T}}\color{#ffd600}{\textsf{A}}\color{#ffd600}{\textsf{L}}\color{#ffd600}{\textsf{K}}$
 
 <p align="center">$\color{#ffd600}{\textsf{D}}\color{#ffd600}{\textsf{O}}$ $\color{#ffd600}{\textsf{N}}\color{#ffd600}{\textsf{O}}\color{#ffd600}{\textsf{T}}$ $\color{#ffd600}{\textsf{C}}\color{#ffd600}{\textsf{O}}\color{#ffd600}{\textsf{P}}\color{#ffd600}{\textsf{Y}}$ $\color{#ffd600}{\textsf{O}}\color{#ffd600}{\textsf{U}}\color{#ffd600}{\textsf{R}}$ $\color{#ffd600}{\textsf{P}}\color{#ffd600}{\textsf{O}}\color{#ffd600}{\textsf{N}}\color{#ffd600}{\textsf{I}}\color{#ffd600}{\textsf{E}}\color{#ffd600}{\textsf{S}}$
+
 
 -- WIP...
 
