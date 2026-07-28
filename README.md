@@ -44,6 +44,10 @@
  
   <p align="center">$\color{#ff2f8e}{\textsf{W}}\color{#ff2f8e}{\textsf{E}}$ $\color{#ff2f8e}{\textsf{E}}\color{#ff2f8e}{\textsf{X}}\color{#ff2f8e}{\textsf{P}}\color{#ff2f8e}{\textsf{E}}\color{#ff2f8e}{\textsf{R}}\color{#ff2f8e}{\textsf{I}}\color{#ff2f8e}{\textsf{E}}\color{#ff2f8e}{\textsf{N}}\color{#ff2f8e}{\textsf{C}}\color{#ff2f8e}{\textsf{E}}$ $\color{#ff2f8e}{\textsf{F}}\color{#ff2f8e}{\textsf{U}}\color{#ff2f8e}{\textsf{L}}\color{#ff2f8e}{\textsf{L}}$ $\color{#ff2f8e}{\textsf{B}}\color{#ff2f8e}{\textsf{L}}\color{#ff2f8e}{\textsf{A}}\color{#ff2f8e}{\textsf{C}}\color{#ff2f8e}{\textsf{K}}\color{#ff2f8e}{\textsf{O}}\color{#ff2f8e}{\textsf{U}}\color{#ff2f8e}{\textsf{T}}$ $\color{#ff2f8e}{\textsf{A}}\color{#ff2f8e}{\textsf{M}}\color{#ff2f8e}{\textsf{N}}\color{#ff2f8e}{\textsf{E}}\color{#ff2f8e}{\textsf{S}}\color{#ff2f8e}{\textsf{I}}\color{#ff2f8e}{\textsf{A}}$
 
+  $\color{#ff2f8e}{\textsf{S}}\color{#ff2f8e}{\textsf{U}}\color{#ff2f8e}{\textsf{S}}\color{#ff2f8e}{\textsf{P}}\color{#ff2f8e}{\textsf{E}}\color{#ff2f8e}{\textsf{C}}\color{#ff2f8e}{\textsf{T}}\color{#ff2f8e}{\textsf{E}}\color{#ff2f8e}{\textsf{D}}$ $\color{#ff2f8e}{\textsf{A}}\color{#ff2f8e}{\textsf{U}}\color{#ff2f8e}{\textsf{T}}\color{#ff2f8e}{\textsf{I}}\color{#ff2f8e}{\textsf{S}}\color{#ff2f8e}{\textsf{M}}$
+
+  $\color{#ff2f8e}{\textsf{A}}\color{#ff2f8e}{\textsf{D}}\color{#ff2f8e}{\textsf{H}}\color{#ff2f8e}{\textsf{D}}$ $\color{#ff2f8e}{\textsf{+}}$ $\color{#ff2f8e}{\textsf{O}}\color{#ff2f8e}{\textsf{C}}\color{#ff2f8e}{\textsf{D}}$ $\color{#ff2f8e}{\textsf{M}}\color{#ff2f8e}{\textsf{O}}\color{#ff2f8e}{\textsf{R}}\color{#ff2f8e}{\textsf{E}}$ $\color{#ff2f8e}{\textsf{U}}\color{#ff2f8e}{\textsf{N}}\color{#ff2f8e}{\textsf{D}}\color{#ff2f8e}{\textsf{I}}\color{#ff2f8e}{\textsf{S}}\color{#ff2f8e}{\textsf{C}}\color{#ff2f8e}{\textsf{L}}\color{#ff2f8e}{\textsf{O}}\color{#ff2f8e}{\textsf{S}}\color{#ff2f8e}{\textsf{E}}\color{#ff2f8e}{\textsf{D}}$
+
 </td>
 
 <td align="center" width="30%">
