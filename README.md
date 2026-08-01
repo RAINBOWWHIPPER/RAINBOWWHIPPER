@@ -30,6 +30,19 @@
 
 <table align="center">
 <tr>
+<td align="center">
+
+<img src="https://files.catbox.moe/cvahum.png" width="40%">
+<img src="https://files.catbox.moe/w22gnf.png" width="40%">
+<img src="https://files.catbox.moe/zwmoe3.png" width="40%">
+
+</td>
+</tr>
+</table>
+
+#
+<table align="center">
+<tr>
 <td align="center" width="30%">
 
 <img src="https://files.catbox.moe/w0h75q.png" width="250">
@@ -126,6 +139,4 @@ LINKS!
 <details>
 <summary> CREDITS </summary>
  <p align="center">
-ROXY (https://github.com/meowgariita) HELPING WITH BIO, AND THEIR MY INSPO
-
-</details>
+ROXY (https://github.com/meowgariita) HELPING WITH BIO, AND THE
