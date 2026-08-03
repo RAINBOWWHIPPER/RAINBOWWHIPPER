@@ -107,6 +107,8 @@ $\color{#ff2f8e}{\textsf{T}}\color{#ff2f8e}{\textsf{C}}\color{#ff2f8e}{\textsf{C
 
 [XEB](https://github.com/wwindowsxp)
 
+[NEPETA/SHARK](https://github.com/pouncedeleon) [APRIL/FEFERI](https://github.com/Pineappl3lov3r)
+
 </td>
 
 <td align="center" width="30%">
